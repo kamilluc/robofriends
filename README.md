@@ -1,4 +1,8 @@
-﻿edit
+﻿# Screens:
+![image1](https://github.com/kamilluc/robofriends/blob/master/screens/1.png)
+![image2](https://github.com/kamilluc/robofriends/blob/master/screens/2.png)
+
+# Create-react-app stuff:
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

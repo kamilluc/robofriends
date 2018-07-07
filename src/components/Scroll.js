@@ -3,7 +3,7 @@ import React from 'react'
 const Scroll = (props) => {
     return(
         //w  ()  jest JS w (()) obiekt ktry mozna przkeazac do CSS
-        <div style={{overflowY: 'scroll', border: '1px solid black', height: '500px'}} > 
+        <div style={{overflowY: 'scroll', border: '1px solid black', height: '750px'}} > 
             {props.children}
         </div>
     )
